@@ -57,3 +57,8 @@ h1 {
 input {
     background: grey;
 }
+
+.profile {
+    width: 200px;
+    height: 300px;
+}
